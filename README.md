@@ -2,7 +2,7 @@
 
 ## Intro
 
-Trained an autonomous driving car with policy gradient reinforcement learning based on the [VISTA](https://github.com/vista-simulator/vista) environment, a data-driven simulation engine for autonomous driving perception and control.
+Trained an autonomous driving car with policy gradient reinforcement learning(using Pytorch) based on the [VISTA](https://github.com/vista-simulator/vista) environment, a data-driven simulation engine for autonomous driving perception and control.
 
 ## Result
 > Random Policy
